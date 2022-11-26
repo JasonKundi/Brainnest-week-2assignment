@@ -21,7 +21,6 @@
     src: url("./fonts/Roboto/Roboto-LightItalic.ttf");
 }
 
-
 body {
     display: grid;
     grid-auto-flow: row;
